@@ -10,8 +10,13 @@ Game List é uma API desenvolvida durante o Intensivão Java Spring, ministrado 
 
 ## Tecnologias utilizadas
 -Java
+
 -Spring Boot
+
 -JPA / Hibernate
+
 -Maven
+
 -Postgresql
+
 -Railway
